@@ -1,0 +1,19 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "Documento para introducao ao express e node",
+  "main": "app-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoguilherme/node-estudos.git"
+  },
+  "author": "Marco Guilherme B. Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoguilherme/node-estudos/issues"
+  },
+  "homepage": "https://github.com/marcoguilherme/node-estudos#readme"
+}
