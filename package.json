@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcoguilherme/node-estudos/issues"
   },
-  "homepage": "https://github.com/marcoguilherme/node-estudos#readme"
+  "homepage": "https://github.com/marcoguilherme/node-estudos#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
